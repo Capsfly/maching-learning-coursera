@@ -1,0 +1,1 @@
+theta = gradientDescent(X, y, theta, alpha, iterations);
